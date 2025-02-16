@@ -1,0 +1,18 @@
+- Maven nedir ?
+- pom.xml nedir ?
+- JDK nedir ?
+- jre nedir ?
+- compiler nedir ?
+- jvm nedir ?
+- interpreter nedir ?
+- java nedir ?
+- java özellikleri nelerdir ?
+
+- Data types nedir ?
+- primitice type nedir ?
+- wrapper types nedir ?
+
+
+camelCase yazım nedir ?
+PascalCase yazım nedir ?
+kebab-case yazım nedir ?

@@ -2,7 +2,7 @@
 
 [GITHUB](https://github.com/okangulsevil)
 
-# Git
+## Git
 ```sh
 git init
 git add . 
@@ -11,14 +11,20 @@ git push -u origin master
 ```
 ---
 
-# Java Core
+## Java Common Rules
 ```sh
+Class : isimleri PascalCase göre yazılır.
+Class : isimleri fiil olarak kullanmayız (-mak -mek)
+Class : Java 1 tane public class vardır (inner class hariç)
+Class : Java static class yoktur (inner class hariç)
+
+Paket isimleri küçük harflerle yazılır.
 
 ```
 ---
 
-# Java Core
+## Java Core Information
 ```sh
-
+Java case sensitive bir dildir. (Küçük Büyük harfe duyarlı yüksek seviyede bir dildir.)
 ```
 ---
